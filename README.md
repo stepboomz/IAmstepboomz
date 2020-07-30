@@ -4,7 +4,7 @@
 
 ### Hello!
 
-### I'm Supasit Theprak and
+### I'm Stepboomz and
 
 ### I'm a Web Developer!
 
