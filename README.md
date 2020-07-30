@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://stepboomz.dev"><img src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/master/images/super-kid.gif" /></a>
+<a href="https://stepboomz.dev"><img src="https://github.com/stepboomz/IAmstepboomz/blob/master/super-kid.gif" /></a>
 </p>
 
 ### Hello!
